@@ -1,3 +1,3 @@
-**Social Media: Best Practices**
+# Social Media: Best Practices
 
-*Overview*
+## Overview
