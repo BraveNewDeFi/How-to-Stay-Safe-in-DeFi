@@ -1,3 +1,3 @@
-**Blockchain, Scaling Solutions, and Layer 2 Risks**
+# Blockchain, Scaling Solutions, and Layer 2 Risks
 
-*Overview*
+## Overview
