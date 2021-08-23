@@ -15,7 +15,7 @@ This guide is a living resource and will evolve over time.
 7) Money Legos and Stacked Risk
 8) Introduction to Smart Contract Risk
 9) Audits and Bug Bounties
-10) Blockchain, Scaling Solution, and Layer 2 Risks
+10) Blockchain, Scaling Solutions, and Layer 2 Risks
 11) What to Consider Before Using Forked Projects
 12) Doxxed Teams and Anon Teams
 13) ENS Domains
