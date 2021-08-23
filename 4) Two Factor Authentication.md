@@ -1,3 +1,0 @@
-**Two Factor Authentication**
-
-*Introduction*
